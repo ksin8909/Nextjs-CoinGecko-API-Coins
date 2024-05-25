@@ -1,5 +1,4 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { promises as fs } from 'fs';
 
 type ResponseData = {
     message: string
@@ -9,8 +8,12 @@ async function handler(
     req: NextApiRequest,
     res: NextApiResponse<ResponseData>
 ) {
-    const file = await fs.readFile(process.cwd() + '/src/app/json/coins.json', 'utf8');
-    const data = JSON.parse(file);
+    //const file = await fs.readFile(process.cwd() + '/src/app/json/coins.json', 'utf8');
+    const host = "http://localhost:3000/";
+    //const host = "https://nextjs-coin-gecko-api-coins.vercel.app/";
+    const file = await fetch('http://localhost:3000/json/coins.json');
+    const data = await file.json();
+    //const data = JSON.parse(file);
 
     let str = "";
     for (let i = 0; i < data.length; i++){
@@ -25,7 +28,13 @@ async function handler(
     const ress = await fetch(price_url);
     const latestprice = await ress.json();
 
-    res.status(200).json(latestprice)
+    return new Response(JSON.stringify(latestprice), {
+        status: 200,
+        headers: {
+            "content-type": "application/json",
+        },
+    })
+    //res.status(200).json(latestprice);
 }
 
 export const config = {
