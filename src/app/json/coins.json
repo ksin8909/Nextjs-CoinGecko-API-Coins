@@ -1,0 +1,452 @@
+[
+    {
+        "symbol": "1INCH",
+        "title": "1inch",
+        "coingeckoid": "1inch"
+    },
+    {
+        "symbol": "ALI",
+        "title": "Artificial Liquid Intelligence",
+        "coingeckoid": "alethea-artificial-liquid-intelligence-token"
+    },
+    {
+        "symbol": "ALPINE",
+        "title": "Alpine F1 Team Fan Token",
+        "coingeckoid": "alpine-f1-team-fan-token"
+    },
+    {
+        "symbol": "ANC",
+        "title": "Anchor Protocol",
+        "coingeckoid": "anchor-protocol"
+    },
+    {
+        "symbol": "APEX",
+        "title": "ApeX Protocol",
+        "coingeckoid": "apex-protocol"
+    },
+    {
+        "symbol": "APT",
+        "title": "Aptos",
+        "coingeckoid": "aptos"
+    },
+    {
+        "symbol": "ATLAS",
+        "title": "Star Atlas",
+        "coingeckoid": "star-atlas"
+    },
+    {
+        "symbol": "ATOM",
+        "title": "Cosmos",
+        "coingeckoid": "cosmos"
+    },
+    {
+        "symbol": "AVAX",
+        "title": "Avalanche",
+        "coingeckoid": "avalanche-2"
+    },
+    {
+        "symbol": "BLOK",
+        "title": "Bloktopia",
+        "coingeckoid": "bloktopia"
+    },
+    {
+        "symbol": "BNB",
+        "title": "Binance Coin",
+        "coingeckoid": "binancecoin"
+    },
+    {
+        "symbol": "BNT",
+        "title": "Bancor",
+        "coingeckoid": "bancor"
+    },
+    {
+        "symbol": "BRD",
+        "title": "Bread",
+        "coingeckoid": "bread"
+    },
+    {
+        "symbol": "BSW",
+        "title": "Biswap",
+        "coingeckoid": "biswap"
+    },
+    {
+        "symbol": "BTC",
+        "title": "Bitcoin",
+        "coingeckoid": "bitcoin"
+    },
+    {
+        "symbol": "BUNNY",
+        "title": "Bunny",
+        "coingeckoid": "pancake-bunny"
+    },
+    {
+        "symbol": "CAKE",
+        "title": "PancakeSwap",
+        "coingeckoid": "pancakeswap-token"
+    },
+    {
+        "symbol": "CAPP",
+        "title": "Cappasity",
+        "coingeckoid": "cappasity"
+    },
+    {
+        "symbol": "CLV",
+        "title": "Clover Finance",
+        "coingeckoid": "clover-finance"
+    },
+    {
+        "symbol": "CONV",
+        "title": "Convergence",
+        "coingeckoid": "convergence"
+    },
+    {
+        "symbol": "CQT",
+        "title": "Covalent",
+        "coingeckoid": "covalent"
+    },
+    {
+        "symbol": "CRO",
+        "title": "Cronos",
+        "coingeckoid": "crypto-com-chain"
+    },
+    {
+        "symbol": "CSPR",
+        "title": "Casper",
+        "coingeckoid": "casper-network"
+    },
+    {
+        "symbol": "DAR",
+        "title": "Mines of Dalarnia",
+        "coingeckoid": "mines-of-dalarnia"
+    },
+    {
+        "symbol": "DOGE",
+        "title": "Dogecoin",
+        "coingeckoid": "dogecoin"
+    },
+    {
+        "symbol": "DORA",
+        "title": "Dora Factory",
+        "coingeckoid": "dora-factory"
+    },
+    {
+        "symbol": "DOT",
+        "title": "Polkadot",
+        "coingeckoid": "polkadot"
+    },
+    {
+        "symbol": "ENJ",
+        "title": "Enjin",
+        "coingeckoid": "enjincoin"
+    },
+    {
+        "symbol": "EDU",
+        "title": "Open Campus",
+        "coingeckoid": "edu-coin"
+    },
+    {
+        "symbol": "ESS",
+        "title": "Essentia",
+        "coingeckoid": "essentia"
+    },
+    {
+        "symbol": "ETH",
+        "title": "Ethereum",
+        "coingeckoid": "ethereum"
+    },
+    {
+        "symbol": "ETHFI",
+        "title": "Ether.fi",
+        "coingeckoid": "ether-fi"
+    },
+    {
+        "symbol": "FLOW",
+        "title": "Flow",
+        "coingeckoid": "flow"
+    },
+    {
+        "symbol": "FTT",
+        "title": "FTX Token",
+        "coingeckoid": "ftx-token"
+    },
+    {
+        "symbol": "GAL",
+        "title": "Project Galaxy",
+        "coingeckoid": "project-galaxy"
+    },
+    {
+        "symbol": "GALA",
+        "title": "Gala",
+        "coingeckoid": "gala"
+    },
+    {
+        "symbol": "GMT",
+        "title": "STEPN",
+        "coingeckoid": "stepn"
+    },
+    {
+        "symbol": "GMX",
+        "title": "GMX",
+        "coingeckoid": "gmx"
+    },
+    {
+        "symbol": "GRT",
+        "title": "The Graph",
+        "coingeckoid": "the-graph"
+    },
+    {
+        "symbol": "HCT",
+        "title": "HurricaneSwap Token",
+        "coingeckoid": "hurricaneswap-token"
+    },
+    {
+        "symbol": "HFT",
+        "title": "Hashflow",
+        "coingeckoid": "hashflow"
+    },
+    {
+        "symbol": "HIGH",
+        "title": "Highstreet",
+        "coingeckoid": "highstreet"
+    },
+    {
+        "symbol": "HOOK",
+        "title": "Hooked Protocol",
+        "coingeckoid": "hooked-protocol"
+    },
+    {
+        "symbol": "ICP",
+        "title": "Internet Computer Protocol",
+        "coingeckoid": "internet-computer"
+    },
+    {
+        "symbol": "ICX",
+        "title": "ICON",
+        "coingeckoid": "icon"
+    },
+    {
+        "symbol": "ID",
+        "title": "Space ID",
+        "coingeckoid": "space-id"
+    },
+    {
+        "symbol": "INDI",
+        "title": "IndiGG",
+        "coingeckoid": "indigg"
+    },
+    {
+        "symbol": "KTN",
+        "title": "Kattana",
+        "coingeckoid": "kattana"
+    },
+    {
+        "symbol": "LINK",
+        "title": "Chainlink",
+        "coingeckoid": "chainlink"
+    },
+    {
+        "symbol": "LND",
+        "title": "Lendingblock",
+        "coingeckoid": "lendingblock"
+    },
+    {
+        "symbol": "LOKA",
+        "title": "League of Kingdoms",
+        "coingeckoid": "league-of-kingdoms"
+    },
+    {
+        "symbol": "LPT",
+        "title": "Livepeer",
+        "coingeckoid": "livepeer"
+    },
+    {
+        "symbol": "MPL",
+        "title": "Maple",
+        "coingeckoid": "maple"
+    },
+    {
+        "symbol": "MNT",
+        "title": "Mantle",
+        "coingeckoid": "mantle"
+    },
+    {
+        "symbol": "MATIC",
+        "title": "Polygon",
+        "coingeckoid": "matic-network"
+    },
+    {
+        "symbol": "MC",
+        "title": "Merit Circle",
+        "coingeckoid": "merit-circle"
+    },
+    {
+        "symbol": "MINA",
+        "title": "Mina Protocol",
+        "coingeckoid": "mina-protocol"
+    },
+    {
+        "symbol": "MUBI",
+        "title": "Multibit",
+        "coingeckoid": "multibit"
+    },
+    {
+        "symbol": "NEX",
+        "title": "Nash",
+        "coingeckoid": "neon-exchange"
+    },
+    {
+        "symbol": "NKN",
+        "title": "NKN",
+        "coingeckoid": "nkn"
+    },
+    {
+        "symbol": "OCEAN",
+        "title": "Ocean Protocol",
+        "coingeckoid": "ocean-protocol"
+    },
+    {
+        "symbol": "OPEN",
+        "title": "Open Platform",
+        "coingeckoid": "open-platform"
+    },
+    {
+        "symbol": "OP",
+        "title": "Optimism",
+        "coingeckoid": "optimism"
+    },
+    {
+        "symbol": "OSMO",
+        "title": "Osmosis",
+        "coingeckoid": "osmosis"
+    },
+    {
+        "symbol": "PMON",
+        "title": "Polychain Monsters",
+        "coingeckoid": "polychain-monsters"
+    },
+    {
+        "symbol": "PANDORA",
+        "title": "Pandora",
+        "coingeckoid": "pandora"
+    },
+    {
+        "symbol": "RAY",
+        "title": "Raydium",
+        "coingeckoid": "raydium"
+    },
+    {
+        "symbol": "RDNT",
+        "title": "Radiant Capital",
+        "coingeckoid": "radiant-capital"
+    },
+    {
+        "symbol": "RHOC",
+        "title": "RChain",
+        "coingeckoid": "rchain"
+    },
+    {
+        "symbol": "RLY",
+        "title": "Rally",
+        "coingeckoid": "rally-2"
+    },
+    {
+        "symbol": "SAND",
+        "title": "Sandbox",
+        "coingeckoid": "the-sandbox"
+    },
+    {
+        "symbol": "SOL",
+        "title": "Solana",
+        "coingeckoid": "solana"
+    },
+    {
+        "symbol": "SRN",
+        "title": "Sirin Labs",
+        "coingeckoid": "sirin-labs-token"
+    },
+    {
+        "symbol": "STG",
+        "title": "Stargate Finance",
+        "coingeckoid": "stargate-finance"
+    },
+    {
+        "symbol": "SUI",
+        "title": "Sui",
+        "coingeckoid": "sui"
+    },
+    {
+        "symbol": "SWASH",
+        "title": "Swash",
+        "coingeckoid": "swash"
+    },
+    {
+        "symbol": "T",
+        "title": "Threshold",
+        "coingeckoid": "threshold-network-token"
+    },
+    {
+        "symbol": "TRIBL",
+        "title": "Tribal",
+        "coingeckoid": "tribal"
+    },
+    {
+        "symbol": "VID",
+        "title": "Vivid Labs",
+        "coingeckoid": "videocoin"
+    },
+    {
+        "symbol": "WETH",
+        "title": "Wrapped Ethereum",
+        "coingeckoid": "weth"
+    },
+    {
+        "symbol": "WOM",
+        "title": "Wombat Exchange",
+        "coingeckoid": "wombat-exchange"
+    },
+    {
+        "symbol": "WOO",
+        "title": "WOO Network",
+        "coingeckoid": "woo-network"
+    },
+    {
+        "symbol": "WLD",
+        "title": "Worldcoin",
+        "coingeckoid": "worldcoin-wld"
+    },
+    {
+        "symbol": "RWA",
+        "title": "Xend Finance",
+        "coingeckoid": "xend-finance"
+    },
+    {
+        "symbol": "ZCN",
+        "title": "0chain",
+        "coingeckoid": "0chain"
+    },
+    {
+        "symbol": "ZCO",
+        "title": "Zebi",
+        "coingeckoid": "Zebi"
+    },
+    {
+        "symbol": "BUSD",
+        "title": "Binance USD",
+        "coingeckoid": "binance-usd"
+    },
+    {
+        "symbol": "GUSD",
+        "title": "Gemini Dollar",
+        "coingeckoid": "gemini-dollar"
+    },
+    {
+        "symbol": "USDC",
+        "title": "USD Coin",
+        "coingeckoid": "usd-coin"
+    },
+    {
+        "symbol": "USDT",
+        "title": "Tether",
+        "coingeckoid": "tether"
+    }
+]
