@@ -5,7 +5,7 @@ type ResponseData = {
     message: string
 }
  
-export default async function handler(
+async function handler(
     req: NextApiRequest,
     res: NextApiResponse<ResponseData>
 ) {
@@ -27,3 +27,9 @@ export default async function handler(
 
     res.status(200).json(latestprice)
 }
+
+export const config = {
+    runtime: "edge",
+}
+
+export default handler
