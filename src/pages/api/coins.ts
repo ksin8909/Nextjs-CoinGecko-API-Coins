@@ -11,7 +11,7 @@ async function handler(
     //const file = await fs.readFile(process.cwd() + '/src/app/json/coins.json', 'utf8');
     //const host = "http://localhost:3000/";
     const host = "https://nextjs-coin-gecko-api-coins.vercel.app/";
-    const file = await fetch('http://localhost:3000/json/coins.json');
+    const file = await fetch(host + '/json/coins.json');
     const data = await file.json();
     //const data = JSON.parse(file);
 
