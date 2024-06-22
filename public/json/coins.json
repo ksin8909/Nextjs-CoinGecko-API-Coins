@@ -420,6 +420,11 @@
         "coingeckoid": "xend-finance"
     },
     {
+        "symbol": "ZK",
+        "title": "ZKsync",
+        "coingeckoid": "zksync"
+    },
+    {
         "symbol": "ZCN",
         "title": "0chain",
         "coingeckoid": "0chain"
